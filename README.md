@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**mkargus/mkargus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkargus&show_icons=true&count_private=true&hide_title=true&hide_border=true)][me/gh]
 
-Here are some ideas to get you started:
+  <sub>You can find me on these sites:</sub>
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  [<img src="https://github.com/fluidicon.png" alt="GitHub" height="28" />][me/gh] &nbsp;
+  [<img src="https://images.rbxcdn.com/3b43a5c16ec359053fef735551716fc5.ico" alt="Roblox" height="28" />][me/rbx] &nbsp;
+  [<img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/optimized/4X/3/7/4/374b2f132433065f2087b88c43080aba75c21aff_2_32x32.svg" alt="Roblox DevForum" height="28" />][me/rbxdev] &nbsp;
+  [<img src="https://abs.twimg.com/favicons/twitter.ico" alt="Twitter" height="28" />][me/twitter] &nbsp;
+
+</div>
+
+[me/gh]: https://github.com/mkargus/mkargus
+[me/rbx]: https://www.roblox.com/users/15351949/profile
+[me/rbxdev]: https://devforum.roblox.com/u/mkargus
+[me/twitter]: https://twitter.com/m_kargus
