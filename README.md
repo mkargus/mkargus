@@ -1,7 +1,6 @@
 <div align="center">
-
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkargus&show_icons=true&count_private=true&hide_border=true&hide_rank=true&theme=github_dark)][me/gh]
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkargus&layout=compact&hide_border=true&theme=github_dark)][me/gh]
+  
+  i write code.
 
   <sub>You can find me on these sites:</sub>
   <br>
